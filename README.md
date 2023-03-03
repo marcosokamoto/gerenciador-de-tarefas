@@ -8,7 +8,7 @@ Não há necessidade de instalação, pois o projeto utiliza apenas tecnologias 
 
 ## Uso
 
-Para adicionar uma nova tarefa, clique no botão "Adicionar tarefa" na parte superior da página. Preencha os campos necessários (nome da tarefa, prioridade e prazo) e clique em "Salvar" para adicionar a tarefa à lista.
+Para adicionar uma nova tarefa, clique no botão "Adicionar tarefa" na parte superior da página. 
 
 Para editar ou excluir uma tarefa existente, clique nos botões "Editar" ou "Excluir" ao lado da tarefa desejada. Para editar uma tarefa, altere as informações desejadas e clique em "Salvar". Para excluir uma tarefa, confirme a exclusão quando solicitado.
 
